@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>💕 For you 💕</title>
+	</head>
+	<body>
+		<h1 style="color: red;"><b> 💕 LOVE 💕 LOVE 💕 LOVE 💕 </b></h1>
+		<img src="https://drive.google.com/uc?export=view&id=FILE_ID" width="150"/> <br>
+		Hello tuyung... <br>
+		Selamat pagi... <br>
+		Ngga kerasa kita udah 3,5 tahun pacaran... <br>
+		Banyak keinginan kita yang harus kita doakan untuk masa depan... <br>
+		<p style="color: blue; background-color: pink; width:25%">
+			<b>Mari berdoa sepenuh hati supaya semua keinginan kita dapat dikabulkan Tuhan</b><br>
+		</p>
+		Love you tuyung 💕 <br>
+		Selamat bekerja Tuhan Yesus memberkati...
+
+		<audio autoplay loop>
+			<source src="https://drive.google.com/uc?export=download&id=FILE_ID" type="audio/mp3">
+			Your browser does not support the audio element.
+		</audio>
+	</body>
+</html>
