@@ -1,0 +1,115 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.img{
+    transition: transform 0.3s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.title {
+    font-family: arial black;
+    font-size: 24px;
+	color: white;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    text-align: center;
+}
+
+.verse1{
+    font-family: Times New Roman;
+    font-size: 24px;
+	color: rgb(255, 101, 127);
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    text-align: left;
+    font-weight: 700;
+    margin: -200px 0px 0px 50px;
+}
+
+.image1{
+    margin: -100px 0px 0px 875px;
+}
+
+.footer{
+    background-color: aqua;
+    background-image: url(LoveBackground.png);
+    border: 2px solid black;
+    padding: 10px 0px 10px 0px;
+    margin: 0px 50px 0px 50px;
+}
+
+.event{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 350px 0px 350px;
+    font-family: arial black;
+    font-size: 24px;
+	color: rgb(255, 255, 255);
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+.UE{
+    font-family: arial black;
+    text-align: center;
+    font-size: 32px;
+	color: rgb(255, 255, 255);
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+.audio{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 400%);
+}
+
+.verse2{
+    font-family: Times New Roman;
+    font-size: 24px;
+	color: rgb(255, 101, 127);
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    text-align: right;
+    font-weight: 700;
+    margin: -475px 50px 0px 0px
+}
+
+.image2{
+    margin: 0px 0px 0px 50px;
+}
+
+.closing{
+    font-family: Times New Roman;
+    font-size: 24px;
+	color: rgb(255, 101, 127);
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    text-align: center;
+    font-weight: 700;
+    margin: 0px 50px 0px 0px
+}
+
+.image3{
+    margin: -10px 0px 0px 153px;
+}
+
+.image4{
+    margin: -10px 0px 0px 165px;
+}
+
+.background{
+    background-color: antiquewhite;
+}
+
+.zoom{
+    width: 600px;
+    height: auto;
+    position: fixed;
+            top: 0%;
+            left: 25%;
+            transform: translate(-50%, -50%) scale(600px);
+    z-index: 1000;
+}
